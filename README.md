@@ -13,6 +13,6 @@ This is a simple e-commerce website for selling Centella products.
 - Product showcase
 
 ## Preview
-![Screenshot](screenshot11.png)
-![Screenshot](screenshot12.png)
-![Screenshot](screenshot13.png)
+![Screenshot](Screenshot11.png)
+![Screenshot](Screenshot12.png)
+![Screenshot](Screenshot13.png)
